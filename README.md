@@ -18,5 +18,9 @@ This app was created through the guidance of londonappbrewery bootcamp course.
 
 ## How to test the app yourself
 
-If you would like to try the app yourself, make sure you create an account for openweathermap and obtain an API key.
+Before you try to run this app, you will first need Android Studio as well as download and install Flutter. </br>
+https://flutter.dev/docs/get-started/install </br>
+After you open the project, make sure to click "Pub Get" or "Get Dependencies" for it to work. 
+
+Secondly, you need to create an account for openweathermap and obtain an API key.
 After, in the services folder under weather.dart file, replace the apiKey variable with your API key and simply run the app. 
