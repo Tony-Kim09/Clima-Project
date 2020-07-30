@@ -1,6 +1,6 @@
 # Clima Project
 
-![Finished Project](https://github.com/Tony-Kim09/Flutter-Projects/blob/master/Clima-Project/images/FinishedClima.PNG)
+![Finished Project](https://github.com/Tony-Kim09/Clima-Project/blob/master/images/FinishedClima.PNG)
 
 ## What I Created
 
